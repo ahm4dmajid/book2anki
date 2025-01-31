@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Cache
+.cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Output files
+*.apkg
+*.log
+
+# Emacs backup files
+*~

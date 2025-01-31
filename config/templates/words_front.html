@@ -1,0 +1,17 @@
+<div class="card word-card">
+  <div class="card-header">
+    <h1 class="word">{{Word}}</h1>
+    {{#PartOfSpeech}}<div class="pos">{{PartOfSpeech}}</div>{{/PartOfSpeech}}
+  </div>
+  
+  <div class="pronunciation">
+    {{#US_IPA}}
+    <div class="ipa-group">
+      <span class="ipa">{{US_IPA}}</span>
+      {{#US_Audio}}
+      {{US_Audio}}
+      {{/US_Audio}}
+    </div>
+    {{/US_IPA}}
+  </div>
+</div>
