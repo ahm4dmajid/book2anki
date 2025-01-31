@@ -8,11 +8,11 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 
 
 ## Table of Contents
-- [Features](#features)
+- [Features](#features-)
 - [Installation](#installation)
-  - [Command Line](#prerequisites)
-  - [GUI](#gui-installation) *(Coming Soon)*
-- [Usage](#usage)
+  - [Command Line](#command-line)
+  - [GUI](#gui-graphical-user-interface) *(Coming Soon)*
+- [Usage](#usage-)
   - [Basic Usage](#basic-usage)
   - [Advanced Options](#advanced-options)
 
@@ -29,7 +29,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 
 ## Installation ⚙️
 
-### Commmand Line
+### Command Line
 #### Prerequisites
 - Python 3.9 or newer
 - pip package manager
@@ -49,7 +49,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 
 
 ## Usage 🚀
-### Basice Usage
+### Basic Usage
 ```
 python book2anki.py input_book.pdf --output my_anki_deck.apkg
 ```
