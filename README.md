@@ -28,7 +28,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 - 🌐 Automatic exclusion of previously extracted words
 
 > [!NOTE]
-> This program generates all forms of a word, not just the exact word found in the book. This means that different inflected forms (e.g., verb, noun, etc.) will also be included.
+> This program generates all forms of a word, not just the exact word found in the book. This means that different forms (e.g., verb, noun, etc.) will also be included.
 > Additionally, the *Words* deck is the most important one, as it covers essential vocabulary. The *Idioms* and *Phrasal Verbs* decks are optional and can be used based on your learning preferences.
 
 ## Installation ⚙️
