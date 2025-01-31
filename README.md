@@ -48,6 +48,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 2. **Install dependencies** (Recommended: Create a virtual environment):
     ```
     pip install -r requirements.txt
+    python -m textblob.download_corpora
     ```
 ### GUI (Graphical User Interface)
 
