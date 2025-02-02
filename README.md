@@ -4,6 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Screenshot](https://private-user-images.githubusercontent.com/175677947/408862996-c6a1bcdf-a352-4379-a761-85be94e713c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0OTY0MzgsIm5iZiI6MTczODQ5NjEzOCwicGF0aCI6Ii8xNzU2Nzc5NDcvNDA4ODYyOTk2LWM2YTFiY2RmLWEzNTItNDM3OS1hNzYxLTg1YmU5NGU3MTNjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwMlQxMTM1MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjQyNzkzZWMwZWFjMmM2ZTY0ZmYxNDAzYmY1MWZkMTMwYWMyZWY0MWIzNzc3YmQ3NGY0N2Y3YjM4ZGRlOTExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VqYs-6a3dkfCf5d-Zos_SH8wQfJ84HsUA__GVXLTLIA)
 Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciations, and examples from Oxford Advanced Learner's Dictionary.
 
 
