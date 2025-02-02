@@ -4,8 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Screenshot](https://private-user-images.githubusercontent.com/175677947/408862996-c6a1bcdf-a352-4379-a761-85be94e713c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0OTY0MzgsIm5iZiI6MTczODQ5NjEzOCwicGF0aCI6Ii8xNzU2Nzc5NDcvNDA4ODYyOTk2LWM2YTFiY2RmLWEzNTItNDM3OS1hNzYxLTg1YmU5NGU3MTNjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwMlQxMTM1MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjQyNzkzZWMwZWFjMmM2ZTY0ZmYxNDAzYmY1MWZkMTMwYWMyZWY0MWIzNzc3YmQ3NGY0N2Y3YjM4ZGRlOTExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VqYs-6a3dkfCf5d-Zos_SH8wQfJ84HsUA__GVXLTLIA)
-
+![Screenshot](/assets/screenshot.png)
 Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciations, and examples from Oxford Advanced Learner's Dictionary.
 
 
@@ -15,10 +14,11 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
   - [Command Line](#command-line)
   - [GUI](#gui-graphical-user-interface)
     - [Windows Installer](#windows-installer)
-    - [Linux Installer](#linux-installer) *(comming soon)*
+    - [Linux Installer](#linux-installer) 
 - [Usage](#usage-)
   - [Basic Usage](#basic-usage)
   - [Advanced Options](#advanced-options)
+- [Error Reporting and Suggestions](#error-reporting-and-suggestions)
 
 
 ## Features ✨
@@ -34,6 +34,8 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 > [!NOTE]
 > This program generates all forms of a word, not just the exact word found in the book. This means that different forms (e.g., verb, noun, etc.) will also be included.
 > Additionally, the *Words* deck is the most important one, as it covers essential vocabulary. The *Idioms* and *Phrasal Verbs* decks are optional and can be used based on your learning preferences.
+
+
 
 ## Installation ⚙️
 
@@ -57,21 +59,26 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 ### GUI (Graphical User Interface)
 
 #### Windows Installer
-Get your package from [Download](https://github.com/ahm4dmajid/book2anki/releases/) section
+1. Get your package from [Download](https://github.com/ahm4dmajid/book2anki/releases/) section
+2. Run the installer and follow the on-screen instructions.
+
+> [!WARNING]
+> Windows may flag the installer as a virus. This is a false positive caused by heuristic analysis. The installer is safe to use.
 
 #### Linux Installer
+*(comming soon)*
 
 
 ## Usage 🚀
 ### Basic Usage
 ```
-python book2anki.py input_book.pdf --output my_anki_deck.apkg
+python book2anki.py input_book.pdf --output my_anki_deck
 ```
 
 ### Advanced Options
 ```
 python book2anki.py input_book.epub \
-  --output advanced_cards.apkg \
+  --output deck_name \
   --min-length 5 \
   --exclude-up-to B2 \
   --max-concurrent 20
@@ -84,5 +91,13 @@ python book2anki.py input_book.epub \
 | `--min-length` |	Minimum word length to include |	3 |
 | `--exclude-up-to` |	Exclude words up to CEFR level (A1 - C1)	| None |
 | `--max-concurrent` | | 20 |
+
+## Error Reporting and Suggestions 🐛
+If you encounter any issues or have suggestions for improvement, please:
+
+1. Open an issue on GitHub Issues.
+2. Email me at a.maged@proton.me
+
+Your feedback is highly appreciated! 
 
 
