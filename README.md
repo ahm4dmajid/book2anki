@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Screenshot](/assets/screenshot.png)
+
 Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciations, and examples from Oxford Advanced Learner's Dictionary.
 
 
