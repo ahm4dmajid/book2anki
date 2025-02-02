@@ -31,7 +31,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
   - CEFR level exclusion
 - 📁 Automatic caching of dictionary lookups
 - 🌐 Automatic exclusion of previously extracted words
-- 🎨 Customizable deck style (edit: config/templates/shared_style.css)
+- 🎨 Customizable deck style (edit: [shared_style.css](/config/templates/shared_style.css))
 
 > [!NOTE]
 > This program generates all forms of a word, not just the exact word found in the book. This means that different forms (e.g., verb, noun, etc.) will also be included.
