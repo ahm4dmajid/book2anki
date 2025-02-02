@@ -11,7 +11,9 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 - [Features](#features-)
 - [Installation](#installation)
   - [Command Line](#command-line)
-  - [GUI](#gui-graphical-user-interface) *(Coming Soon)*
+  - [GUI](#gui-graphical-user-interface)
+    - [Windows Installer](#windwos-installer)
+    - [Linux Installer](#linux-installer) *(comming soon)*
 - [Usage](#usage-)
   - [Basic Usage](#basic-usage)
   - [Advanced Options](#advanced-options)
@@ -51,6 +53,11 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
     python -m textblob.download_corpora
     ```
 ### GUI (Graphical User Interface)
+
+#### Windows Installer
+Get your package from [Download](https://github.com/ahm4dmajid/book2anki/releases/) section
+
+#### Linux Installer
 
 
 ## Usage 🚀
