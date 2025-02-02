@@ -18,7 +18,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 - [Usage](#usage-)
   - [Basic Usage](#basic-usage)
   - [Advanced Options](#advanced-options)
-- [Error Reporting and Suggestions](#error-reporting-and-suggestions)
+- [Error Reporting and Suggestions](#error-reporting-and-suggestions-)
 
 
 ## Features ✨
