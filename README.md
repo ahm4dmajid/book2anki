@@ -12,7 +12,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 - [Installation](#installation)
   - [Command Line](#command-line)
   - [GUI](#gui-graphical-user-interface)
-    - [Windows Installer](#windwos-installer)
+    - [Windows Installer](#windows-installer)
     - [Linux Installer](#linux-installer) *(comming soon)*
 - [Usage](#usage-)
   - [Basic Usage](#basic-usage)
