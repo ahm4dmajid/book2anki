@@ -22,10 +22,10 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 - [Error Reporting and Suggestions](#error-reporting-and-suggestions-)
 
 
-## Features ✨
+## Features
 -  Extract words from PDF, EPUB, and TXT files
 -  Fetch definitions, pronunciations, examples, and audio from Oxford Advanced Learner's Dictionary
-- 🎴 Generate Anki decks with multiple card types (words, idioms, phrasal verbs)
+-  Generate Anki decks with multiple card types (words, idioms, phrasal verbs)
 -  Configurable word filtering:
   - Minimum word length
   - CEFR level exclusion
@@ -39,7 +39,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 
 
 
-## Installation ⚙️
+## Installation
 
 ### Command Line
 #### Prerequisites
@@ -71,7 +71,7 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 *(comming soon)*
 
 
-## Usage 🚀
+## Usage
 ### Basic Usage
 ```
 python book2anki.py input_book.pdf --output my_anki_deck
