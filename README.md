@@ -23,15 +23,15 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 
 
 ## Features ✨
-- 📚 Extract words from PDF, EPUB, and TXT files
-- 🏫 Fetch definitions, pronunciations, examples, and audio from Oxford Advanced Learner's Dictionary
+-  Extract words from PDF, EPUB, and TXT files
+-  Fetch definitions, pronunciations, examples, and audio from Oxford Advanced Learner's Dictionary
 - 🎴 Generate Anki decks with multiple card types (words, idioms, phrasal verbs)
-- 🔍 Configurable word filtering:
+-  Configurable word filtering:
   - Minimum word length
   - CEFR level exclusion
-- 📁 Automatic caching of dictionary lookups
-- 🌐 Automatic exclusion of previously extracted words
-- 🎨 Customizable deck style (edit: [shared_style.css](/config/templates/shared_style.css))
+-  Automatic caching of dictionary lookups
+-  Automatic exclusion of previously extracted words
+-  Customizable deck style (edit: [shared_style.css](/config/templates/shared_style.css))
 
 > [!NOTE]
 > This program generates all forms of a word, not just the exact word found in the book. This means that different forms (e.g., verb, noun, etc.) will also be included.
@@ -94,7 +94,7 @@ python book2anki.py input_book.epub \
 | `--exclude-up-to` |	Exclude words up to CEFR level (A1 - C1)	| None |
 | `--max-concurrent` | | 20 |
 
-## Error Reporting and Suggestions 🐛
+## Error Reporting and Suggestions
 If you encounter any issues or have suggestions for improvement, please:
 
 1. Open an issue on GitHub Issues.
