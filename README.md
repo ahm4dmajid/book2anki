@@ -27,8 +27,8 @@ Convert eBooks (PDF/EPUB/TXT) into Anki flashcards with definitions, pronunciati
 -  Fetch definitions, pronunciations, examples, and audio from Oxford Advanced Learner's Dictionary
 -  Generate Anki decks with multiple card types (words, idioms, phrasal verbs)
 -  Configurable word filtering:
-  - Minimum word length
-  - CEFR level exclusion
+   - Minimum word length
+   - CEFR level exclusion
 -  Automatic caching of dictionary lookups
 -  Automatic exclusion of previously extracted words
 -  Customizable deck style (edit: [shared_style.css](/config/templates/shared_style.css))
